@@ -1,0 +1,24 @@
+.content
+{
+   display:flex;
+    background:#f44336;
+    height:40px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  
+}
+
+button{
+    height: 20px;
+    background: #f44336;
+    border: none;
+    color: white;
+    font-weight: 700;
+}
+
+button:hover
+{
+    color:black;
+}
+
